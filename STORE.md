@@ -45,8 +45,6 @@ payante, pub ou monétisation).
 
 - **storage** : enregistre tes préférences (fonctionnalités activées, limite de
   défilement, sites désactivés) via `chrome.storage.sync`. Aucune donnée envoyée.
-- **tabs** : lit l'URL de l'onglet actif **dans le popup uniquement** pour
-  proposer « désactiver sur ce site ». Aucun historique de navigation collecté.
 - **Host access (`<all_urls>`)** : le cœur de l'extension (geler le scroll,
   plafonner les fils, différer la pagination) doit pouvoir s'exécuter sur
   n'importe quel site où l'on défile. Tout le traitement est **local**.
