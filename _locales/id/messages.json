@@ -1,34 +1,98 @@
 {
-  "appDesc": { "message": "Memblokir scroll tanpa henti (Shorts, Reels, TikTok, feed sosial) tanpa menghalangimu menonton, dan mengganti scroll tanpa henti umum dengan tombol “Muat lainnya”." },
-  "tagline1": { "message": "Mantra pelindung dari doomscrolling." },
-  "tagline2": { "message": "Kau.. tak akan.. men-SCROLL!" },
-  "tagline3": { "message": "Membantumu agar tidak kehilangan fokus." },
-  "tagline4": { "message": "Mencegahmu terjerumus ke doomscroll." },
-  "tagline5": { "message": "Orang bijak tak terkecoh doomscroll." },
-  "tagline6": { "message": "Biar kulindungi kamu dari gangguan." },
-  "masterTitle": { "message": "Nonaktifkan ekstensi" },
-  "masterSub": { "message": "Matikan semua dengan satu ketukan" },
-  "groupShortform": { "message": "Perlindungan dari doomscroll" },
-  "groupFeeds": { "message": "Feed sosial — batas scroll" },
-  "groupOther": { "message": "Di mana pun lainnya" },
-  "scrollLimit": { "message": "Batas scroll" },
-  "screensUnit": { "message": "layar" },
-  "igFeedSub": { "message": "feed beranda" },
-  "infiniteScroll": { "message": "Hentikan scroll tanpa henti" },
-  "infiniteScrollSub": { "message": "→ tombol “Muat lainnya”" },
-  "soundTitle": { "message": "Suara blokir" },
-  "soundSub": { "message": "isyarat halus" },
-  "disableSite": { "message": "Nonaktifkan di situs ini" },
-  "enableSite": { "message": "Aktifkan lagi di situs ini" },
-  "siteUnavailable": { "message": "Situs tidak tersedia" },
-  "autosaved": { "message": "Pengaturan tersimpan otomatis" },
-  "support": { "message": "Dukung saya" },
-  "toastBlocked": { "message": "Perlindungan scroll tanpa henti aktif." },
-  "pauseTitle": { "message": "Jeda 🌱" },
-  "pauseBody": { "message": "Kamu telah mencapai batas scroll di feed ini." },
-  "pauseContinue": { "message": "Tetap lanjutkan" },
+  "appName": {
+    "message": "Scroll Sage"
+  },
+  "appDesc": {
+    "message": "Tonton Shorts, Reels & TikTok tanpa lanjut otomatis, batasi feed sosial, dan ubah scroll tanpa henti jadi tombol."
+  },
+  "tagline1": {
+    "message": "Mantra pelindung dari doomscrolling."
+  },
+  "tagline2": {
+    "message": "Kau.. tak akan.. men-SCROLL!"
+  },
+  "tagline3": {
+    "message": "Membantumu agar tidak kehilangan fokus."
+  },
+  "tagline4": {
+    "message": "Mencegahmu terjerumus ke doomscroll."
+  },
+  "tagline5": {
+    "message": "Orang bijak tak terkecoh doomscroll."
+  },
+  "tagline6": {
+    "message": "Biar kulindungi kamu dari gangguan."
+  },
+  "masterTitle": {
+    "message": "Nonaktifkan ekstensi"
+  },
+  "masterSub": {
+    "message": "Matikan semua dengan satu ketukan"
+  },
+  "groupShortform": {
+    "message": "Perlindungan dari doomscroll"
+  },
+  "groupFeeds": {
+    "message": "Feed sosial — batas scroll"
+  },
+  "groupOther": {
+    "message": "Di mana pun lainnya"
+  },
+  "scrollLimit": {
+    "message": "Batas scroll"
+  },
+  "screensUnit": {
+    "message": "layar"
+  },
+  "igFeedSub": {
+    "message": "feed beranda"
+  },
+  "infiniteScroll": {
+    "message": "Hentikan scroll tanpa henti"
+  },
+  "infiniteScrollSub": {
+    "message": "→ tombol “Muat lainnya”"
+  },
+  "soundTitle": {
+    "message": "Suara blokir"
+  },
+  "soundSub": {
+    "message": "isyarat halus"
+  },
+  "disableSite": {
+    "message": "Nonaktifkan di situs ini"
+  },
+  "enableSite": {
+    "message": "Aktifkan lagi di situs ini"
+  },
+  "siteUnavailable": {
+    "message": "Situs tidak tersedia"
+  },
+  "autosaved": {
+    "message": "Pengaturan tersimpan otomatis"
+  },
+  "support": {
+    "message": "Dukung saya"
+  },
+  "toastBlocked": {
+    "message": "Perlindungan scroll tanpa henti aktif."
+  },
+  "pauseTitle": {
+    "message": "Jeda 🌱"
+  },
+  "pauseBody": {
+    "message": "Kamu telah mencapai batas scroll di feed ini."
+  },
+  "pauseContinue": {
+    "message": "Tetap lanjutkan"
+  },
   "loadMorePage": {
     "message": "Muat lainnya ↓ · halaman $COUNT$",
-    "placeholders": { "count": { "content": "$1", "example": "2" } }
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2"
+      }
+    }
   }
 }

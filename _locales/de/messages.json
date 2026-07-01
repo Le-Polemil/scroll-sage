@@ -1,34 +1,98 @@
 {
-  "appDesc": { "message": "Blockiert endloses Scrollen (Shorts, Reels, TikTok, soziale Feeds), ohne dich am Ansehen zu hindern, und ersetzt generisches Endlos-Scrollen durch einen „Mehr laden“-Button." },
-  "tagline1": { "message": "Ein Schutzzauber gegen Doomscrolling." },
-  "tagline2": { "message": "Du.. kannst nicht.. SCROLLEEEN!" },
-  "tagline3": { "message": "Damit du deinen Fokus nicht verlierst." },
-  "tagline4": { "message": "Bewahrt dich davor, ins Doomscrolling zu rutschen." },
-  "tagline5": { "message": "Die Weisen fallen nicht aufs Doomscrolling herein." },
-  "tagline6": { "message": "Lass mich dich vor Ablenkungen schützen." },
-  "masterTitle": { "message": "Erweiterung deaktivieren" },
-  "masterSub": { "message": "Alles mit einem Tipp ausschalten" },
-  "groupShortform": { "message": "Schutz vor Doomscrolling" },
-  "groupFeeds": { "message": "Soziale Feeds — Scroll-Limit" },
-  "groupOther": { "message": "Überall sonst" },
-  "scrollLimit": { "message": "Scroll-Limit" },
-  "screensUnit": { "message": "Bildschirme" },
-  "igFeedSub": { "message": "Startseiten-Feed" },
-  "infiniteScroll": { "message": "Kein Endlos-Scrollen" },
-  "infiniteScrollSub": { "message": "→ „Mehr laden“-Button" },
-  "soundTitle": { "message": "Blockier-Ton" },
-  "soundSub": { "message": "dezenter Hinweis" },
-  "disableSite": { "message": "Auf dieser Seite deaktivieren" },
-  "enableSite": { "message": "Auf dieser Seite reaktivieren" },
-  "siteUnavailable": { "message": "Seite nicht verfügbar" },
-  "autosaved": { "message": "Einstellungen automatisch gespeichert" },
-  "support": { "message": "Unterstütze mich" },
-  "toastBlocked": { "message": "Endlos-Scroll-Schutz aktiv." },
-  "pauseTitle": { "message": "Pause 🌱" },
-  "pauseBody": { "message": "Du hast dein Scroll-Limit in diesem Feed erreicht." },
-  "pauseContinue": { "message": "Trotzdem fortfahren" },
+  "appName": {
+    "message": "Scroll Sage"
+  },
+  "appDesc": {
+    "message": "Shorts, Reels & TikTok ohne Auto-Weiter ansehen, Social-Feeds begrenzen und Endlos-Scrollen in einen Button verwandeln."
+  },
+  "tagline1": {
+    "message": "Ein Schutzzauber gegen Doomscrolling."
+  },
+  "tagline2": {
+    "message": "Du.. kannst nicht.. SCROLLEEEN!"
+  },
+  "tagline3": {
+    "message": "Damit du deinen Fokus nicht verlierst."
+  },
+  "tagline4": {
+    "message": "Bewahrt dich davor, ins Doomscrolling zu rutschen."
+  },
+  "tagline5": {
+    "message": "Die Weisen fallen nicht aufs Doomscrolling herein."
+  },
+  "tagline6": {
+    "message": "Lass mich dich vor Ablenkungen schützen."
+  },
+  "masterTitle": {
+    "message": "Erweiterung deaktivieren"
+  },
+  "masterSub": {
+    "message": "Alles mit einem Tipp ausschalten"
+  },
+  "groupShortform": {
+    "message": "Schutz vor Doomscrolling"
+  },
+  "groupFeeds": {
+    "message": "Soziale Feeds — Scroll-Limit"
+  },
+  "groupOther": {
+    "message": "Überall sonst"
+  },
+  "scrollLimit": {
+    "message": "Scroll-Limit"
+  },
+  "screensUnit": {
+    "message": "Bildschirme"
+  },
+  "igFeedSub": {
+    "message": "Startseiten-Feed"
+  },
+  "infiniteScroll": {
+    "message": "Kein Endlos-Scrollen"
+  },
+  "infiniteScrollSub": {
+    "message": "→ „Mehr laden“-Button"
+  },
+  "soundTitle": {
+    "message": "Blockier-Ton"
+  },
+  "soundSub": {
+    "message": "dezenter Hinweis"
+  },
+  "disableSite": {
+    "message": "Auf dieser Seite deaktivieren"
+  },
+  "enableSite": {
+    "message": "Auf dieser Seite reaktivieren"
+  },
+  "siteUnavailable": {
+    "message": "Seite nicht verfügbar"
+  },
+  "autosaved": {
+    "message": "Einstellungen automatisch gespeichert"
+  },
+  "support": {
+    "message": "Unterstütze mich"
+  },
+  "toastBlocked": {
+    "message": "Endlos-Scroll-Schutz aktiv."
+  },
+  "pauseTitle": {
+    "message": "Pause 🌱"
+  },
+  "pauseBody": {
+    "message": "Du hast dein Scroll-Limit in diesem Feed erreicht."
+  },
+  "pauseContinue": {
+    "message": "Trotzdem fortfahren"
+  },
   "loadMorePage": {
     "message": "Mehr laden ↓ · Seite $COUNT$",
-    "placeholders": { "count": { "content": "$1", "example": "2" } }
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2"
+      }
+    }
   }
 }

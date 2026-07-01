@@ -1,34 +1,98 @@
 {
-  "appDesc": { "message": "無限スクロール（Shorts、Reels、TikTok、SNSフィード）を視聴は妨げずにブロックし、一般的な無限スクロールを「もっと読み込む」ボタンに置き換えます。" },
-  "tagline1": { "message": "ドゥームスクロールを防ぐ守りの呪文。" },
-  "tagline2": { "message": "お前は…スクロール…できなァァい！" },
-  "tagline3": { "message": "集中力を切らさないために。" },
-  "tagline4": { "message": "ドゥームスクロールに陥らないように。" },
-  "tagline5": { "message": "賢者はドゥームスクロールに惑わされない。" },
-  "tagline6": { "message": "気を散らすものから守ります。" },
-  "masterTitle": { "message": "拡張機能を無効化" },
-  "masterSub": { "message": "ワンタップですべてオフ" },
-  "groupShortform": { "message": "ドゥームスクロール対策" },
-  "groupFeeds": { "message": "SNSフィード — スクロール上限" },
-  "groupOther": { "message": "その他すべて" },
-  "scrollLimit": { "message": "スクロール上限" },
-  "screensUnit": { "message": "画面" },
-  "igFeedSub": { "message": "ホームフィード" },
-  "infiniteScroll": { "message": "無限スクロール無効" },
-  "infiniteScrollSub": { "message": "→ 「もっと読み込む」ボタン" },
-  "soundTitle": { "message": "ブロック音" },
-  "soundSub": { "message": "控えめな通知" },
-  "disableSite": { "message": "このサイトで無効化" },
-  "enableSite": { "message": "このサイトで有効化" },
-  "siteUnavailable": { "message": "サイトを利用できません" },
-  "autosaved": { "message": "設定は自動保存されます" },
-  "support": { "message": "応援する" },
-  "toastBlocked": { "message": "無限スクロール対策が有効です。" },
-  "pauseTitle": { "message": "一休み 🌱" },
-  "pauseBody": { "message": "このフィードのスクロール上限に達しました。" },
-  "pauseContinue": { "message": "それでも続ける" },
+  "appName": {
+    "message": "Scroll Sage"
+  },
+  "appDesc": {
+    "message": "Shorts・Reels・TikTok を自動送りなしで視聴、SNSフィードを制限し、無限スクロールをボタンに。"
+  },
+  "tagline1": {
+    "message": "ドゥームスクロールを防ぐ守りの呪文。"
+  },
+  "tagline2": {
+    "message": "お前は…スクロール…できなァァい！"
+  },
+  "tagline3": {
+    "message": "集中力を切らさないために。"
+  },
+  "tagline4": {
+    "message": "ドゥームスクロールに陥らないように。"
+  },
+  "tagline5": {
+    "message": "賢者はドゥームスクロールに惑わされない。"
+  },
+  "tagline6": {
+    "message": "気を散らすものから守ります。"
+  },
+  "masterTitle": {
+    "message": "拡張機能を無効化"
+  },
+  "masterSub": {
+    "message": "ワンタップですべてオフ"
+  },
+  "groupShortform": {
+    "message": "ドゥームスクロール対策"
+  },
+  "groupFeeds": {
+    "message": "SNSフィード — スクロール上限"
+  },
+  "groupOther": {
+    "message": "その他すべて"
+  },
+  "scrollLimit": {
+    "message": "スクロール上限"
+  },
+  "screensUnit": {
+    "message": "画面"
+  },
+  "igFeedSub": {
+    "message": "ホームフィード"
+  },
+  "infiniteScroll": {
+    "message": "無限スクロール無効"
+  },
+  "infiniteScrollSub": {
+    "message": "→ 「もっと読み込む」ボタン"
+  },
+  "soundTitle": {
+    "message": "ブロック音"
+  },
+  "soundSub": {
+    "message": "控えめな通知"
+  },
+  "disableSite": {
+    "message": "このサイトで無効化"
+  },
+  "enableSite": {
+    "message": "このサイトで有効化"
+  },
+  "siteUnavailable": {
+    "message": "サイトを利用できません"
+  },
+  "autosaved": {
+    "message": "設定は自動保存されます"
+  },
+  "support": {
+    "message": "応援する"
+  },
+  "toastBlocked": {
+    "message": "無限スクロール対策が有効です。"
+  },
+  "pauseTitle": {
+    "message": "一休み 🌱"
+  },
+  "pauseBody": {
+    "message": "このフィードのスクロール上限に達しました。"
+  },
+  "pauseContinue": {
+    "message": "それでも続ける"
+  },
   "loadMorePage": {
     "message": "もっと読み込む ↓ · $COUNT$ ページ目",
-    "placeholders": { "count": { "content": "$1", "example": "2" } }
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2"
+      }
+    }
   }
 }

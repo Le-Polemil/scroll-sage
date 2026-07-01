@@ -1,34 +1,98 @@
 {
-  "appDesc": { "message": "अनंत स्क्रॉल (Shorts, Reels, TikTok, सोशल फ़ीड) को आपको देखने से रोके बिना ब्लॉक करता है, और सामान्य अनंत स्क्रॉल को “और लोड करें” बटन से बदल देता है।" },
-  "tagline1": { "message": "डूमस्क्रॉलिंग से बचाने वाला सुरक्षा-मंत्र।" },
-  "tagline2": { "message": "तुम.. स्क्रॉल.. नहीं करोगेेे!" },
-  "tagline3": { "message": "तुम्हें ध्यान भटकने से बचाने में मदद।" },
-  "tagline4": { "message": "तुम्हें डूमस्क्रॉल में गिरने से बचाता है।" },
-  "tagline5": { "message": "बुद्धिमान डूमस्क्रॉल के झांसे में नहीं आते।" },
-  "tagline6": { "message": "मैं तुम्हें ध्यान भटकाने वाली चीज़ों से बचाऊँ।" },
-  "masterTitle": { "message": "एक्सटेंशन बंद करें" },
-  "masterSub": { "message": "एक टैप में सब बंद करें" },
-  "groupShortform": { "message": "डूमस्क्रॉल से बचाव" },
-  "groupFeeds": { "message": "सोशल फ़ीड — स्क्रॉल सीमा" },
-  "groupOther": { "message": "बाकी हर जगह" },
-  "scrollLimit": { "message": "स्क्रॉल सीमा" },
-  "screensUnit": { "message": "स्क्रीन" },
-  "igFeedSub": { "message": "होम फ़ीड" },
-  "infiniteScroll": { "message": "कोई अनंत स्क्रॉल नहीं" },
-  "infiniteScrollSub": { "message": "→ “और लोड करें” बटन" },
-  "soundTitle": { "message": "ब्लॉक ध्वनि" },
-  "soundSub": { "message": "हल्का संकेत" },
-  "disableSite": { "message": "इस साइट पर बंद करें" },
-  "enableSite": { "message": "इस साइट पर फिर चालू करें" },
-  "siteUnavailable": { "message": "साइट उपलब्ध नहीं" },
-  "autosaved": { "message": "सेटिंग्स अपने आप सहेजी जाती हैं" },
-  "support": { "message": "सहयोग करें" },
-  "toastBlocked": { "message": "अनंत-स्क्रॉल सुरक्षा चालू।" },
-  "pauseTitle": { "message": "रुकें 🌱" },
-  "pauseBody": { "message": "आप इस फ़ीड पर अपनी स्क्रॉल सीमा तक पहुँच गए हैं।" },
-  "pauseContinue": { "message": "फिर भी जारी रखें" },
+  "appName": {
+    "message": "Scroll Sage"
+  },
+  "appDesc": {
+    "message": "ऑटो-एडवांस के बिना Shorts, Reels, TikTok देखें, सोशल फ़ीड सीमित करें और अनंत स्क्रॉल को बटन में बदलें।"
+  },
+  "tagline1": {
+    "message": "डूमस्क्रॉलिंग से बचाने वाला सुरक्षा-मंत्र।"
+  },
+  "tagline2": {
+    "message": "तुम.. स्क्रॉल.. नहीं करोगेेे!"
+  },
+  "tagline3": {
+    "message": "तुम्हें ध्यान भटकने से बचाने में मदद।"
+  },
+  "tagline4": {
+    "message": "तुम्हें डूमस्क्रॉल में गिरने से बचाता है।"
+  },
+  "tagline5": {
+    "message": "बुद्धिमान डूमस्क्रॉल के झांसे में नहीं आते।"
+  },
+  "tagline6": {
+    "message": "मैं तुम्हें ध्यान भटकाने वाली चीज़ों से बचाऊँ।"
+  },
+  "masterTitle": {
+    "message": "एक्सटेंशन बंद करें"
+  },
+  "masterSub": {
+    "message": "एक टैप में सब बंद करें"
+  },
+  "groupShortform": {
+    "message": "डूमस्क्रॉल से बचाव"
+  },
+  "groupFeeds": {
+    "message": "सोशल फ़ीड — स्क्रॉल सीमा"
+  },
+  "groupOther": {
+    "message": "बाकी हर जगह"
+  },
+  "scrollLimit": {
+    "message": "स्क्रॉल सीमा"
+  },
+  "screensUnit": {
+    "message": "स्क्रीन"
+  },
+  "igFeedSub": {
+    "message": "होम फ़ीड"
+  },
+  "infiniteScroll": {
+    "message": "कोई अनंत स्क्रॉल नहीं"
+  },
+  "infiniteScrollSub": {
+    "message": "→ “और लोड करें” बटन"
+  },
+  "soundTitle": {
+    "message": "ब्लॉक ध्वनि"
+  },
+  "soundSub": {
+    "message": "हल्का संकेत"
+  },
+  "disableSite": {
+    "message": "इस साइट पर बंद करें"
+  },
+  "enableSite": {
+    "message": "इस साइट पर फिर चालू करें"
+  },
+  "siteUnavailable": {
+    "message": "साइट उपलब्ध नहीं"
+  },
+  "autosaved": {
+    "message": "सेटिंग्स अपने आप सहेजी जाती हैं"
+  },
+  "support": {
+    "message": "सहयोग करें"
+  },
+  "toastBlocked": {
+    "message": "अनंत-स्क्रॉल सुरक्षा चालू।"
+  },
+  "pauseTitle": {
+    "message": "रुकें 🌱"
+  },
+  "pauseBody": {
+    "message": "आप इस फ़ीड पर अपनी स्क्रॉल सीमा तक पहुँच गए हैं।"
+  },
+  "pauseContinue": {
+    "message": "फिर भी जारी रखें"
+  },
   "loadMorePage": {
     "message": "और लोड करें ↓ · पृष्ठ $COUNT$",
-    "placeholders": { "count": { "content": "$1", "example": "2" } }
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2"
+      }
+    }
   }
 }

@@ -1,34 +1,98 @@
 {
-  "appDesc": { "message": "Блокирует бесконечную прокрутку (Shorts, Reels, TikTok, соцленты), не мешая смотреть, и заменяет обычную бесконечную прокрутку кнопкой «Загрузить ещё»." },
-  "tagline1": { "message": "Защитное заклинание от думскроллинга." },
-  "tagline2": { "message": "Ты.. не будешь.. СКРОЛЛИИИТЬ!" },
-  "tagline3": { "message": "Помогаю не терять концентрацию." },
-  "tagline4": { "message": "Не даёт свалиться в думскролл." },
-  "tagline5": { "message": "Мудрые не ведутся на думскроллинг." },
-  "tagline6": { "message": "Позволь оградить тебя от отвлечений." },
-  "masterTitle": { "message": "Отключить расширение" },
-  "masterSub": { "message": "Выключить всё одним касанием" },
-  "groupShortform": { "message": "Защита от думскроллинга" },
-  "groupFeeds": { "message": "Соцленты — лимит прокрутки" },
-  "groupOther": { "message": "Везде остальное" },
-  "scrollLimit": { "message": "Лимит прокрутки" },
-  "screensUnit": { "message": "экранов" },
-  "igFeedSub": { "message": "главная лента" },
-  "infiniteScroll": { "message": "Без бесконечной прокрутки" },
-  "infiniteScrollSub": { "message": "→ кнопка «Загрузить ещё»" },
-  "soundTitle": { "message": "Звук блокировки" },
-  "soundSub": { "message": "тихий сигнал" },
-  "disableSite": { "message": "Отключить на этом сайте" },
-  "enableSite": { "message": "Включить на этом сайте" },
-  "siteUnavailable": { "message": "Сайт недоступен" },
-  "autosaved": { "message": "Настройки сохраняются автоматически" },
-  "support": { "message": "Поддержать" },
-  "toastBlocked": { "message": "Защита от бесконечной прокрутки включена." },
-  "pauseTitle": { "message": "Пауза 🌱" },
-  "pauseBody": { "message": "Вы достигли лимита прокрутки в этой ленте." },
-  "pauseContinue": { "message": "Всё равно продолжить" },
+  "appName": {
+    "message": "Scroll Sage"
+  },
+  "appDesc": {
+    "message": "Смотри Shorts, Reels и TikTok без автоперехода, ограничь соцленты и преврати бесконечную прокрутку в кнопку."
+  },
+  "tagline1": {
+    "message": "Защитное заклинание от думскроллинга."
+  },
+  "tagline2": {
+    "message": "Ты.. не будешь.. СКРОЛЛИИИТЬ!"
+  },
+  "tagline3": {
+    "message": "Помогаю не терять концентрацию."
+  },
+  "tagline4": {
+    "message": "Не даёт свалиться в думскролл."
+  },
+  "tagline5": {
+    "message": "Мудрые не ведутся на думскроллинг."
+  },
+  "tagline6": {
+    "message": "Позволь оградить тебя от отвлечений."
+  },
+  "masterTitle": {
+    "message": "Отключить расширение"
+  },
+  "masterSub": {
+    "message": "Выключить всё одним касанием"
+  },
+  "groupShortform": {
+    "message": "Защита от думскроллинга"
+  },
+  "groupFeeds": {
+    "message": "Соцленты — лимит прокрутки"
+  },
+  "groupOther": {
+    "message": "Везде остальное"
+  },
+  "scrollLimit": {
+    "message": "Лимит прокрутки"
+  },
+  "screensUnit": {
+    "message": "экранов"
+  },
+  "igFeedSub": {
+    "message": "главная лента"
+  },
+  "infiniteScroll": {
+    "message": "Без бесконечной прокрутки"
+  },
+  "infiniteScrollSub": {
+    "message": "→ кнопка «Загрузить ещё»"
+  },
+  "soundTitle": {
+    "message": "Звук блокировки"
+  },
+  "soundSub": {
+    "message": "тихий сигнал"
+  },
+  "disableSite": {
+    "message": "Отключить на этом сайте"
+  },
+  "enableSite": {
+    "message": "Включить на этом сайте"
+  },
+  "siteUnavailable": {
+    "message": "Сайт недоступен"
+  },
+  "autosaved": {
+    "message": "Настройки сохраняются автоматически"
+  },
+  "support": {
+    "message": "Поддержать"
+  },
+  "toastBlocked": {
+    "message": "Защита от бесконечной прокрутки включена."
+  },
+  "pauseTitle": {
+    "message": "Пауза 🌱"
+  },
+  "pauseBody": {
+    "message": "Вы достигли лимита прокрутки в этой ленте."
+  },
+  "pauseContinue": {
+    "message": "Всё равно продолжить"
+  },
   "loadMorePage": {
     "message": "Загрузить ещё ↓ · страница $COUNT$",
-    "placeholders": { "count": { "content": "$1", "example": "2" } }
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2"
+      }
+    }
   }
 }

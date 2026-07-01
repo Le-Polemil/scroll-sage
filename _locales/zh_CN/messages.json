@@ -1,34 +1,98 @@
 {
-  "appDesc": { "message": "拦截无限滚动（Shorts、Reels、TikTok、社交信息流），但不影响你观看，并将通用的无限滚动替换为“加载更多”按钮。" },
-  "tagline1": { "message": "抵御刷不停的防护咒语。" },
-  "tagline2": { "message": "你…休想…再刷下去！" },
-  "tagline3": { "message": "帮你不再分心。" },
-  "tagline4": { "message": "帮你不掉进刷不停的漩涡。" },
-  "tagline5": { "message": "智者不会被刷屏迷惑。" },
-  "tagline6": { "message": "让我保护你远离干扰。" },
-  "masterTitle": { "message": "停用扩展" },
-  "masterSub": { "message": "一键关闭全部" },
-  "groupShortform": { "message": "防止刷个不停" },
-  "groupFeeds": { "message": "社交信息流 — 滚动上限" },
-  "groupOther": { "message": "其他所有网站" },
-  "scrollLimit": { "message": "滚动上限" },
-  "screensUnit": { "message": "屏" },
-  "igFeedSub": { "message": "主页信息流" },
-  "infiniteScroll": { "message": "禁用无限滚动" },
-  "infiniteScrollSub": { "message": "→ “加载更多”按钮" },
-  "soundTitle": { "message": "拦截提示音" },
-  "soundSub": { "message": "轻微提示" },
-  "disableSite": { "message": "在此网站停用" },
-  "enableSite": { "message": "在此网站启用" },
-  "siteUnavailable": { "message": "网站不可用" },
-  "autosaved": { "message": "设置已自动保存" },
-  "support": { "message": "支持我" },
-  "toastBlocked": { "message": "无限滚动保护已开启。" },
-  "pauseTitle": { "message": "暂停 🌱" },
-  "pauseBody": { "message": "你已达到此信息流的滚动上限。" },
-  "pauseContinue": { "message": "仍然继续" },
+  "appName": {
+    "message": "Scroll Sage"
+  },
+  "appDesc": {
+    "message": "观看 Shorts、Reels、TikTok 不自动下一条，限制社交信息流，把无限滚动变成按钮。"
+  },
+  "tagline1": {
+    "message": "抵御刷不停的防护咒语。"
+  },
+  "tagline2": {
+    "message": "你…休想…再刷下去！"
+  },
+  "tagline3": {
+    "message": "帮你不再分心。"
+  },
+  "tagline4": {
+    "message": "帮你不掉进刷不停的漩涡。"
+  },
+  "tagline5": {
+    "message": "智者不会被刷屏迷惑。"
+  },
+  "tagline6": {
+    "message": "让我保护你远离干扰。"
+  },
+  "masterTitle": {
+    "message": "停用扩展"
+  },
+  "masterSub": {
+    "message": "一键关闭全部"
+  },
+  "groupShortform": {
+    "message": "防止刷个不停"
+  },
+  "groupFeeds": {
+    "message": "社交信息流 — 滚动上限"
+  },
+  "groupOther": {
+    "message": "其他所有网站"
+  },
+  "scrollLimit": {
+    "message": "滚动上限"
+  },
+  "screensUnit": {
+    "message": "屏"
+  },
+  "igFeedSub": {
+    "message": "主页信息流"
+  },
+  "infiniteScroll": {
+    "message": "禁用无限滚动"
+  },
+  "infiniteScrollSub": {
+    "message": "→ “加载更多”按钮"
+  },
+  "soundTitle": {
+    "message": "拦截提示音"
+  },
+  "soundSub": {
+    "message": "轻微提示"
+  },
+  "disableSite": {
+    "message": "在此网站停用"
+  },
+  "enableSite": {
+    "message": "在此网站启用"
+  },
+  "siteUnavailable": {
+    "message": "网站不可用"
+  },
+  "autosaved": {
+    "message": "设置已自动保存"
+  },
+  "support": {
+    "message": "支持我"
+  },
+  "toastBlocked": {
+    "message": "无限滚动保护已开启。"
+  },
+  "pauseTitle": {
+    "message": "暂停 🌱"
+  },
+  "pauseBody": {
+    "message": "你已达到此信息流的滚动上限。"
+  },
+  "pauseContinue": {
+    "message": "仍然继续"
+  },
   "loadMorePage": {
     "message": "加载更多 ↓ · 第 $COUNT$ 页",
-    "placeholders": { "count": { "content": "$1", "example": "2" } }
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2"
+      }
+    }
   }
 }

@@ -1,34 +1,98 @@
 {
-  "appDesc": { "message": "يحظر التمرير اللانهائي (Shorts وReels وTikTok والخلاصات الاجتماعية) دون منعك من المشاهدة، ويستبدل التمرير اللانهائي العادي بزر «تحميل المزيد»." },
-  "tagline1": { "message": "تعويذة حماية من التمرير القهري." },
-  "tagline2": { "message": "لن.. تُكمِل.. التمريييير!" },
-  "tagline3": { "message": "أساعدك على ألّا تفقد تركيزك." },
-  "tagline4": { "message": "يقيك من الانزلاق في التمرير القهري." },
-  "tagline5": { "message": "الحكماء لا ينخدعون بالتمرير القهري." },
-  "tagline6": { "message": "دعني أحميك من المشتتات." },
-  "masterTitle": { "message": "تعطيل الإضافة" },
-  "masterSub": { "message": "أوقف كل شيء بنقرة واحدة" },
-  "groupShortform": { "message": "الحماية من التمرير القهري" },
-  "groupFeeds": { "message": "الخلاصات الاجتماعية — حد التمرير" },
-  "groupOther": { "message": "في كل مكان آخر" },
-  "scrollLimit": { "message": "حد التمرير" },
-  "screensUnit": { "message": "شاشات" },
-  "igFeedSub": { "message": "الخلاصة الرئيسية" },
-  "infiniteScroll": { "message": "إيقاف التمرير اللانهائي" },
-  "infiniteScrollSub": { "message": "← زر «تحميل المزيد»" },
-  "soundTitle": { "message": "صوت الحظر" },
-  "soundSub": { "message": "تنبيه خفيف" },
-  "disableSite": { "message": "تعطيل على هذا الموقع" },
-  "enableSite": { "message": "إعادة التفعيل على هذا الموقع" },
-  "siteUnavailable": { "message": "الموقع غير متاح" },
-  "autosaved": { "message": "يتم حفظ الإعدادات تلقائيًا" },
-  "support": { "message": "ادعمني" },
-  "toastBlocked": { "message": "حماية التمرير اللانهائي مفعّلة." },
-  "pauseTitle": { "message": "استراحة 🌱" },
-  "pauseBody": { "message": "لقد بلغت حد التمرير في هذه الخلاصة." },
-  "pauseContinue": { "message": "المتابعة على أي حال" },
+  "appName": {
+    "message": "Scroll Sage"
+  },
+  "appDesc": {
+    "message": "شاهد Shorts وReels وTikTok دون تقديم تلقائي، وحُدّ من الخلاصات الاجتماعية، وحوّل التمرير اللانهائي إلى زر."
+  },
+  "tagline1": {
+    "message": "تعويذة حماية من التمرير القهري."
+  },
+  "tagline2": {
+    "message": "لن.. تُكمِل.. التمريييير!"
+  },
+  "tagline3": {
+    "message": "أساعدك على ألّا تفقد تركيزك."
+  },
+  "tagline4": {
+    "message": "يقيك من الانزلاق في التمرير القهري."
+  },
+  "tagline5": {
+    "message": "الحكماء لا ينخدعون بالتمرير القهري."
+  },
+  "tagline6": {
+    "message": "دعني أحميك من المشتتات."
+  },
+  "masterTitle": {
+    "message": "تعطيل الإضافة"
+  },
+  "masterSub": {
+    "message": "أوقف كل شيء بنقرة واحدة"
+  },
+  "groupShortform": {
+    "message": "الحماية من التمرير القهري"
+  },
+  "groupFeeds": {
+    "message": "الخلاصات الاجتماعية — حد التمرير"
+  },
+  "groupOther": {
+    "message": "في كل مكان آخر"
+  },
+  "scrollLimit": {
+    "message": "حد التمرير"
+  },
+  "screensUnit": {
+    "message": "شاشات"
+  },
+  "igFeedSub": {
+    "message": "الخلاصة الرئيسية"
+  },
+  "infiniteScroll": {
+    "message": "إيقاف التمرير اللانهائي"
+  },
+  "infiniteScrollSub": {
+    "message": "← زر «تحميل المزيد»"
+  },
+  "soundTitle": {
+    "message": "صوت الحظر"
+  },
+  "soundSub": {
+    "message": "تنبيه خفيف"
+  },
+  "disableSite": {
+    "message": "تعطيل على هذا الموقع"
+  },
+  "enableSite": {
+    "message": "إعادة التفعيل على هذا الموقع"
+  },
+  "siteUnavailable": {
+    "message": "الموقع غير متاح"
+  },
+  "autosaved": {
+    "message": "يتم حفظ الإعدادات تلقائيًا"
+  },
+  "support": {
+    "message": "ادعمني"
+  },
+  "toastBlocked": {
+    "message": "حماية التمرير اللانهائي مفعّلة."
+  },
+  "pauseTitle": {
+    "message": "استراحة 🌱"
+  },
+  "pauseBody": {
+    "message": "لقد بلغت حد التمرير في هذه الخلاصة."
+  },
+  "pauseContinue": {
+    "message": "المتابعة على أي حال"
+  },
   "loadMorePage": {
     "message": "تحميل المزيد ↓ · صفحة $COUNT$",
-    "placeholders": { "count": { "content": "$1", "example": "2" } }
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2"
+      }
+    }
   }
 }
